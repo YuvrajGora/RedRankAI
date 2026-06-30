@@ -26,3 +26,6 @@ Outputs/*.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Large dataset
+Data/candidates.jsonl
