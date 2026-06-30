@@ -1,0 +1,6 @@
+Flask
+flask-cors
+tqdm
+pandas
+python-docx
+PyPDF2

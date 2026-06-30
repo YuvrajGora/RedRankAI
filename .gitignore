@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# Root Node
+node_modules/
+
+# React
+recruiter-dashboard/node_modules/
+recruiter-dashboard/dist/
+
+# Uploads
+Uploads/
+
+# Outputs
+Outputs/*.csv
+Outputs/*.json
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

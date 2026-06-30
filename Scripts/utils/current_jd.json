@@ -1,0 +1,12 @@
+{
+    "required_titles": [
+        "Software Engineer"
+    ],
+    "required_skills": [
+        "Git"
+    ],
+    "preferred_experience": [
+        3,
+        10
+    ]
+}
