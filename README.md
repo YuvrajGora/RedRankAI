@@ -111,15 +111,19 @@ npm run dev
 
 ### Landing Page
 
-(Add Screenshot)
+![Landing Page](screenshots/landing-page.png)
+
+---
 
 ### AI Recruitment Dashboard
 
-(Add Screenshot)
+![Dashboard](screenshots/dashboard.png)
 
-### Ranked Candidates
+---
 
-(Add Screenshot)
+### Candidate Ranking
+
+![Candidate Ranking](screenshots/candidate-ranking.png)
 
 ---
 
